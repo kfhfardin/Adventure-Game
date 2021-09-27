@@ -1,4 +1,6 @@
 # Dr. McCartin-Lim's Adventure Game Engine 0.75
+#Updated by Fardin for his game
+
 
 import sys
 import textwrap
