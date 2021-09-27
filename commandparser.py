@@ -1,4 +1,4 @@
-# Dr. McCartin-Lim's Adventure Game Engine 0.75
+# Fardin's Adventure Game Engine 0.75(with help from Dr. Mc-Cartin Lim
 
 from classes import *
 from helperfunctions import *
