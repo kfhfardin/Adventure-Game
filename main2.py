@@ -1,3 +1,7 @@
+# Dr. McCartin-Lim's Adventure Game Engine 0.75
+#Updated by Fardin for his game
+
+
 from classes import *
 from helperfunctions  import *
 from commandparser import *
