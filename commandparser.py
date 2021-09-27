@@ -1,4 +1,4 @@
-# Fardin's Adventure Game Engine 0.75(with help from Dr. Mc-Cartin Lim
+# Fardin's Adventure Game Engine 0.75(with help from Dr. Mc-Cartin Lim)
 
 from classes import *
 from helperfunctions import *
